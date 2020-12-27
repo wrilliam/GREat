@@ -1,0 +1,14 @@
+C:\Users\wrilliam\source\repos\GREat.REST\GREat.REST.Domain.Services\bin\Debug\netcoreapp3.1\GREat.REST.Domain.Services.deps.json
+C:\Users\wrilliam\source\repos\GREat.REST\GREat.REST.Domain.Services\bin\Debug\netcoreapp3.1\GREat.REST.Domain.Services.dll
+C:\Users\wrilliam\source\repos\GREat.REST\GREat.REST.Domain.Services\bin\Debug\netcoreapp3.1\GREat.REST.Domain.Services.pdb
+C:\Users\wrilliam\source\repos\GREat.REST\GREat.REST.Domain.Services\bin\Debug\netcoreapp3.1\GREat.REST.Domain.Core.dll
+C:\Users\wrilliam\source\repos\GREat.REST\GREat.REST.Domain.Services\bin\Debug\netcoreapp3.1\GREat.REST.Domain.dll
+C:\Users\wrilliam\source\repos\GREat.REST\GREat.REST.Domain.Services\bin\Debug\netcoreapp3.1\GREat.REST.Domain.Core.pdb
+C:\Users\wrilliam\source\repos\GREat.REST\GREat.REST.Domain.Services\bin\Debug\netcoreapp3.1\GREat.REST.Domain.pdb
+C:\Users\wrilliam\source\repos\GREat.REST\GREat.REST.Domain.Services\obj\Debug\netcoreapp3.1\GREat.REST.Domain.Services.csprojAssemblyReference.cache
+C:\Users\wrilliam\source\repos\GREat.REST\GREat.REST.Domain.Services\obj\Debug\netcoreapp3.1\GREat.REST.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\wrilliam\source\repos\GREat.REST\GREat.REST.Domain.Services\obj\Debug\netcoreapp3.1\GREat.REST.Domain.Services.AssemblyInfo.cs
+C:\Users\wrilliam\source\repos\GREat.REST\GREat.REST.Domain.Services\obj\Debug\netcoreapp3.1\GREat.REST.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\wrilliam\source\repos\GREat.REST\GREat.REST.Domain.Services\obj\Debug\netcoreapp3.1\GREat.REST.Domain.Services.csproj.CopyComplete
+C:\Users\wrilliam\source\repos\GREat.REST\GREat.REST.Domain.Services\obj\Debug\netcoreapp3.1\GREat.REST.Domain.Services.dll
+C:\Users\wrilliam\source\repos\GREat.REST\GREat.REST.Domain.Services\obj\Debug\netcoreapp3.1\GREat.REST.Domain.Services.pdb

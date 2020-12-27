@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GREat.REST.Domain.Services/1.0.0": {
+        "dependencies": {
+          "GREat.REST.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "GREat.REST.Domain.Services.dll": {}
+        }
+      },
+      "GREat.REST.Domain/1.0.0": {
+        "runtime": {
+          "GREat.REST.Domain.dll": {}
+        }
+      },
+      "GREat.REST.Domain.Core/1.0.0": {
+        "dependencies": {
+          "GREat.REST.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GREat.REST.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GREat.REST.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GREat.REST.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GREat.REST.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
